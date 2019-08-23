@@ -1,0 +1,30 @@
+{
+  "name": "nodereact",
+  "version": "1.0.0",
+  "description": "官网中直接搜索下载安装即可；\r node -v 确认是否安装成功\r npm -v 确认npm（node 的包管理工具）是否存在\r ##更新npm至最新版\r npm install -g npm@latest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [
+    "node",
+    "react"
+  ],
+  "author": "Sissle Lynn",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "jsx-loader": "^0.13.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "webpack": "^4.39.2",
+    "webpack-dev-server": "^3.8.0"
+  },
+  "dependencies": {
+    "webpack-cli": "^3.3.7"
+  }
+}
