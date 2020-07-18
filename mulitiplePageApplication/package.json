@@ -73,7 +73,7 @@
     "humps": "^1.1.0",
     "iscroll": "^5.2.0",
     "json-loader": "^0.5.4",
-    "lodash": "^4.16.4",
+    "lodash": "^4.17.19",
     "normalizr": "^2.2.1",
     "npm-run-all": "^4.1.5",
     "postcss-loader": "^0.13.0",
