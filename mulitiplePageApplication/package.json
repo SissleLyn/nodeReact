@@ -33,7 +33,7 @@
     "browser-sync": "^2.26.7",
     "copy-webpack-plugin": "^5.0.4",
     "isomorphic-fetch": "^2.2.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "rc-switch": "^1.9.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
